@@ -382,7 +382,7 @@ This project is intentionally lightweight and rule-based.
 
 ## 👨‍💻 Developers
 
-### Noor Fatima  — `NoorFatima-32`
+### Noor Fatima  — `https://github.com/noor-fatima32`
 
 **Developer / Security Researcher**
 
