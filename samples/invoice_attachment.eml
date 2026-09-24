@@ -1,0 +1,27 @@
+From: "Accounts Payable" <billing@invoice-portal.xyz>
+Return-Path: <bounce@bulk-sender.example>
+To: finance@example.com
+Subject: Urgent: Overdue invoice #8841 attached
+Date: Wed, 23 Sep 2026 08:45:00 +0000
+Received: from unknown (HELO invoice-portal.xyz) (203.0.113.77) by mx.example.com; Wed, 23 Sep 2026 08:45:00 +0000
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=invoice-portal.xyz; dkim=none; dmarc=fail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="MIXED"
+
+--MIXED
+Content-Type: text/plain; charset="utf-8"
+
+Dear Sir,
+
+Your payment is overdue. Please open the attached invoice immediately
+to avoid late penalties.
+
+Accounts Payable
+
+--MIXED
+Content-Type: application/octet-stream; name="Invoice_8841.pdf.exe"
+Content-Disposition: attachment; filename="Invoice_8841.pdf.exe"
+Content-Transfer-Encoding: base64
+
+SGFybWxlc3MgcGxhY2Vob2xkZXIgZmlsZSBmb3IgdGhlIHBoaXNoaW5nIGFuYWx5emVyIGRlbW8uIFRoaXMgaXMgbm90IGEgcmVhbCBleGVjdXRhYmxlLg==
+--MIXED--

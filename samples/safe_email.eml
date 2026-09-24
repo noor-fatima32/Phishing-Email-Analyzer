@@ -1,0 +1,16 @@
+From: "Sarah Khan" <sarah.khan@example.com>
+To: team@example.com
+Subject: Meeting notes from Tuesday
+Date: Tue, 22 Sep 2026 14:30:00 +0000
+Received: from mail.example.com (mail.example.com [203.0.113.10]) by mx.example.com; Tue, 22 Sep 2026 14:30:00 +0000
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=example.com; dkim=pass; dmarc=pass
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Hi team,
+
+Thanks for joining today. Notes are in the shared folder as usual.
+Next sync is Thursday at 10:00. Let me know if you have agenda items.
+
+Best,
+Sarah

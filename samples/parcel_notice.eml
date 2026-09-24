@@ -1,0 +1,18 @@
+From: "Delivery Notification" <notify@fastship-delivery.com>
+Reply-To: support.desk@gmail.com
+To: customer@example.com
+Subject: Your parcel could not be delivered
+Date: Wed, 23 Sep 2026 11:02:10 +0000
+Received: from mail.fastship-delivery.com (mail.fastship-delivery.com [198.51.100.24]) by mx.example.com; Wed, 23 Sep 2026 11:02:10 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Dear Customer,
+
+We tried to deliver your parcel today but nobody was home.
+Please reschedule within 48 hours or it will be returned to the sender:
+
+https://bit.ly/3xYz12
+
+Thank you,
+FastShip Delivery

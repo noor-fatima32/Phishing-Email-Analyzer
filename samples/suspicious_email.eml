@@ -1,0 +1,37 @@
+From: "PayPal Security" <security@paypa1-support.com>
+Reply-To: attacker.help@gmail.com
+Return-Path: <bounce@mailer-x9.example>
+To: victim@example.com
+Subject: Urgent: Your account will be suspended
+Date: Tue, 22 Sep 2026 09:14:02 +0000
+Received: from unknown (HELO mail.paypa1-support.com) (185.220.101.45) by mx.example.com; Tue, 22 Sep 2026 09:14:02 +0000
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=paypa1-support.com; dkim=none; dmarc=fail
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY"
+
+--BOUNDARY
+Content-Type: text/plain; charset="utf-8"
+
+Dear Customer,
+
+We detected unusual activity on your account. Your account will be suspended
+within 24 hours unless you verify your identity immediately.
+
+Log in and confirm your password and card details here:
+http://185.220.101.45/paypal/verify.php
+
+Failure to act will result in permanent account closure.
+
+PayPal Security Team
+--BOUNDARY
+Content-Type: text/html; charset="utf-8"
+
+<html><body>
+<p>Dear Customer,</p>
+<p>We detected unusual activity on your account. <b>Your account will be suspended
+within 24 hours</b> unless you verify your identity immediately.</p>
+<p><a href="http://185.220.101.45/paypal/verify.php">https://www.paypal.com/verify</a></p>
+<p>Failure to act will result in permanent account closure.</p>
+<p>PayPal Security Team</p>
+</body></html>
+--BOUNDARY--
