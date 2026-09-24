@@ -379,15 +379,14 @@ This project is intentionally lightweight and rule-based.
 
 ---
 
+## 👨‍💻 Project Creators
 
-## 👨‍💻 Developers
+### 🔹 Hadi Faheem (CyberReaper)
+- Developer — VulnScan Hybrid
+- GitHub: [CyberReaper-1](https://github.com/CyberReaper-1)
 
-### Noor Fatima  — `https://github.com/noor-fatima32`
-
-**Developer / Security Researcher**
-
-### Hadi Faheem — `CyberReaper_1`
-
-**Developer / Cybersecurity Contributor**
+### 🔹 Noor Fatima
+- Developer — VulnScan Hybrid
+- GitHub: [noor-fatima32](https://github.com/noor-fatima32)
 
 ---
