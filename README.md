@@ -305,24 +305,6 @@ curl -F "file=@samples/suspicious_email.eml" \
 
 ---
 
-## 🧪 Sample Results
-
-The repository includes safe and intentionally suspicious **test samples** for development and validation.
-
-| Sample | Demonstrates | Score | Level |
-|---|---|---:|---|
-| `suspicious_email.eml` | Lookalike domain, Reply-To mismatch, deceptive/IP URL, credential request | 100 | 🔴 HIGH |
-| `invoice_attachment.eml` | Suspicious sender, failed authentication results, risky attachment name | 70 | 🔴 HIGH |
-| `parcel_notice.eml` | Reply-To mismatch, shortened URL, deadline pressure | 45 | 🟡 MEDIUM |
-| `safe_email.eml` | Ordinary internal email | 0 | 🟢 LOW |
-
-<p align="center">
-  <img src="screenshots/ui_medium_risk.png" width="48%" alt="Medium Risk Result">
-  <img src="screenshots/ui_low_risk.png" width="48%" alt="Low Risk Result">
-</p>
-
----
-
 ## 🧪 Testing
 
 Run the complete test suite:
